@@ -190,6 +190,7 @@ sudo iptables -L
 
 ![Local Rules](Screenshot%202026-07-11%20155629.png)
 
+![Service Status](Screenshot%202026-07-11%20170628.png)
 ---
 
 ### 4. Attack Simulation (Ping & Nmap Scan)
@@ -210,9 +211,7 @@ sudo iptables -L
 
 ---
 
-### 7. Suricata Service Status
 
-![Service Status](Screenshot%202026-07-11%20170628.png)
 
 
 ## ✅ Results
