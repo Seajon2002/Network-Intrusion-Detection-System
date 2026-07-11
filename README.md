@@ -11,8 +11,6 @@ This project demonstrates the implementation of a **Network Intrusion Detection 
 
 The system continuously monitors network traffic, detects suspicious activities using custom detection rules, generates alerts in real-time, and implements a basic response mechanism using Linux Firewall (iptables).
 
-This project was completed as part of my **Cyber Security Internship Program**.
-
 ---
 
 ## 🎯 Objectives
