@@ -38,18 +38,6 @@ This project was completed as part of my **Cyber Security Internship Program**.
 
 ---
 
-## 📂 Project Structure
-
-```
-Network-Intrusion-Detection-System/
-
-│── README.md
-│── screenshots/
-│── rules/
-│      └── local.rules
-│── scripts/
-│      └── block_ip.sh
-```
 
 ---
 
