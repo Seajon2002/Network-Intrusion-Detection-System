@@ -176,43 +176,43 @@ sudo iptables -L
 
 ### 1. Suricata Installation (Version Information)
 
-![Suricata Installation](screenshots/installation.png)
+![Suricata Installation](installation.png)
 
 ---
 
 ### 2. Updating Emerging Threats Rules
 
-![Rule Update](screenshots/Screenshot%202026-07-11%20155359(1).png)
+![Rule Update](Screenshot%202026-07-11%20155359.png)
 
 ---
 
 ### 3. Custom IDS Rules Configuration
 
-![Local Rules](screenshots/Screenshot%202026-07-11%20155629(1).png)
+![Local Rules](Screenshot%202026-07-11%20155629.png)
 
 ---
 
 ### 4. Attack Simulation (Ping & Nmap Scan)
 
-![Attack Simulation](screenshots/Screenshot%202026-07-11%20164057(1).png)
+![Attack Simulation](Screenshot%202026-07-11%20164057.png)
 
 ---
 
 ### 5. Real-Time Alert Detection
 
-![Alert Detection](screenshots/Screenshot%202026-07-11%20164334(1).png)
+![Alert Detection](Screenshot%202026-07-11%20164334.png)
 
 ---
 
 ### 6. Response Mechanism (iptables)
 
-![iptables Response](screenshots/Screenshot%202026-07-11%20165948(1).png)
+![iptables Response](Screenshot%202026-07-11%20165948.png)
 
 ---
 
 ### 7. Suricata Service Status
 
-![Service Status](screenshots/Screenshot%202026-07-11%20170628.png)
+![Service Status](Screenshot%202026-07-11%20170628.png)
 
 
 ## ✅ Results
